@@ -15,7 +15,7 @@ A version of the list without all the fluff lives [here](/repos.md).
 
 View recent changes [here](/CHANGELOG.md).
 
-[git.new/repolist](https://git.new/repolist) - short and easy link to use for sharing (This link is generated using [dub.co](https://github.com/dubinc/dub))
+[git.new/treat](https://git.new/treat) - short and easy link to use for sharing (This link is generated using [dub.co](https://github.com/dubinc/dub))
 
 # Contribute
 If you know a project that would fall into my weird criteria, feel free to suggest it via an issue. 
